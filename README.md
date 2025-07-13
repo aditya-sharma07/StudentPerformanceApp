@@ -3,6 +3,9 @@
 A web application built with **Streamlit** that predicts a student's math score based on various academic and demographic features. The model is trained using multiple models, and the app allows users to interactively test predictions using their own inputs.
 
 ---
+## 🚀 Live Demo
+
+👉 **Try the app here:** https://studentperformanceindicator.streamlit.app/
 
 ## 📌 Features
 
